@@ -1,2 +1,2 @@
 # google-homepage
-# I don't know what this is yet.
+# http://www.theodinproject.com/web-development-101/html-css
